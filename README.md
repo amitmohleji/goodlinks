@@ -1,4 +1,3 @@
-# Good Links
 
 ## Web Statistics
 
