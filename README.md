@@ -15,6 +15,7 @@
 
 * istio - service mesh
 * operator framework
+* kotlin 
 
 
 # AI
