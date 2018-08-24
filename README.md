@@ -24,8 +24,8 @@
 
 # devsecops
 
-thycotic vs hashicorp vault
-https://www.vaultproject.io/intro/vs/kms.html
-https://www.vaultproject.io
-https://www.hashicorp.com/devops-defined#p-template-page
-hashicorp vault docker
+* thycotic vs hashicorp vault
+* https://www.vaultproject.io/intro/vs/kms.html
+* https://www.vaultproject.io
+* https://www.hashicorp.com/devops-defined#p-template-page
+* hashicorp vault docker
